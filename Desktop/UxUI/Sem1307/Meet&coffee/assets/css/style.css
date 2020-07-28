@@ -1,0 +1,172 @@
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+    color: #000f08;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.oscuro {
+    background: #000f08;
+    color: #ffffff;
+}
+.oscuro a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+.sweet-brown {
+    text-align: left;
+    background: #a4452c;
+    color: #fff;
+    padding: 3.125rem;
+    white-space: nowrap;
+}
+.hero-section {
+    text-align: right;
+    background-image: url('../img/bg-hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 0.125em 0.25em 0.125em #707070;
+    padding: 6.25rem 3.125rem;
+}
+section, footer {
+    margin-top: 4.6875rem;
+}
+footer {
+     padding: 3.125rem;
+}
+article, .charla-speaker, .charla-texto {
+    display: inline-block;
+}
+.centrado {
+    width: 75%;
+    margin: 0 auto;
+}
+.charla-speaker {
+    width: 25%;
+    vertical-align: middle;
+}
+.charla-texto {
+    width: 70%;
+    vertical-align: middle;
+    margin-left: 5%;
+    white-space: normal;
+}
+article.evento {
+    width: 27%;
+}
+article.evento img {
+    width: 75%;
+}
+article a {
+    text-decoration: none;
+    color: #000000;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 3.75em;
+    margin-bottom: 0.25em;
+}  
+h2 {
+    font-weight: 700;
+    font-size: 2.5em;
+} 
+h3 {
+    font-size: 2em;
+}  
+h4 {
+    font-size: 1.75em;
+}  
+h5 {
+    font-size: 1.25em;
+}
+.subtitulo, h4, h5 {
+    font-weight: 400;
+}
+#ubicacion h2 {
+    margin: 1em auto;
+}
+.sweet-brown h3, .sweet-brown h5 {
+    margin-bottom: 0.5em;
+}
+#eventos h2 {
+    margin-bottom: 1em;
+}
+.evento h3 {
+    margin-top: 0.5em;
+    position: relative;
+}
+nav {
+    text-align: left;
+    padding: 1.25rem 4rem;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+  
+nav ul {
+    list-style-type: none;
+}
+  
+nav ul li {
+    display: inline-block;
+    margin: 0 1em;
+    vertical-align: middle;
+    position: relative;
+}
+.icono svg {
+    fill: #ffffff;
+}
+.icono {
+    width: 2rem;
+}
+footer i {
+    margin: 0 0.25em 0.5em 0.25em;
+}
+nav ul li:hover {
+    bottom: 2px;
+    left: 2px;
+}
+nav ul li:active {
+    top: 1px;
+}
+
+.center-content {
+    width: 95%;
+    max-width: 1085px;
+    margin: 0 auto;
+ 
+}
+.content {
+    padding: 196px 0;
+    text-align: left;
+    font-family: 'Open Sans';
+    color: #000F08;
+  }
+    .content h1 {
+    font-weight: 800;
+    font-size: 2.8125rem;
+  }
+    .content h2 {
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 1em;
+  }
+    .content p {
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 1em;
+  }
+  
+  .content img {
+    margin: 4.6875rem 0;
+    margin-left: 0;
+  }
+ 
+ 
+  
